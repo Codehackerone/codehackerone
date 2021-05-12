@@ -5,5 +5,7 @@
 - 📫 How to reach me: soumyajitdatta123@gmail.com
 - ⚡ Fun fact: I like both Biology and Computer Science.
 - Love to play Chess ♔ and Piano 🎹.
-![img](https://github.com/Codehackerone/github-stats/blob/master/generated/languages.svg)
+
+<img align="right" width="100" height="100" src="https://github.com/Codehackerone/github-stats/blob/master/generated/languages.svg">
+<!--![img](https://github.com/Codehackerone/github-stats/blob/master/generated/languages.svg)-->
 ![img](https://github.com/Codehackerone/github-stats/blob/master/generated/overview.svg)
