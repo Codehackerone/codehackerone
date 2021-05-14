@@ -3,6 +3,9 @@
 
 - Core Team Member at @DSCKGEC
 - Part-TIme Backend Developer at Tech Table.
+- Product Development Intern at Glorio Technologies Pvt Ltd
+
+
 - 👨🏻‍💻 I’m currently working on MERN Stack in web development
 - 🌱 I’m currently learning Machine Learning
 - 💬 Ask me about astronomy 🔭
