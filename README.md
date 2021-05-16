@@ -12,3 +12,4 @@
 - 📫 How to reach me: soumyajitdatta123@gmail.com
 - ⚡ Fun fact: I like both Biology and Computer Science.
 - Love to play Chess ♔ and Piano 🎹.
+- Anime and Marvel Fan
