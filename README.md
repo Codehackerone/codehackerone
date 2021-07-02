@@ -2,14 +2,16 @@
 ### Hi there, I am Soumyajit 👋
 
 - Core Team Member at @DSCKGEC
-- Part-TIme Backend Developer at Tech Table.
+- Part-Time Backend Developer at Tech Table.
 - Product Development Intern at Glorio Technologies Pvt Ltd
 
 
-- 👨🏻‍💻 I’m currently working on MERN Stack in web development
-- 🌱 I’m currently learning Machine Learning and Spanish
+- 👨🏻‍💻 I’m currently working on MERN stack development.
+- 🤖 My favourite ML topics: CV and NLP
+- 🔐 I’m currently learning Blockchain.
 - 💬 Ask me about astronomy 🔭
 - 📫 How to reach me: soumyajitdatta123@gmail.com
-- ⚡ Fun fact: I like both Biology and Computer Science.
-- Love to play Chess ♔ and Piano 🎹.
-- Anime and Marvel Fan
+- ⚡ Fun fact: I love watching anime 🐽
+- 🎹 I play piano too.
+- 🇩🇪 Current language that I am learning: German.
+- ♛ Up for a chess game? Join me [here](https://chess.com/members/Codehackerone) and [here](https://lichess.org/@/Codehackerone_Chess)
