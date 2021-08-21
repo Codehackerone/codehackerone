@@ -3,7 +3,7 @@
 
 - Core Team Member at @DSCKGEC
 - Part-Time Backend Developer at Tech Table.
-- Product Development Intern at Glorio Technologies Pvt Ltd
+- SDE Intern at Glorio Technologies Pvt Ltd
 
 
 - 👨🏻‍💻 I’m currently working on MERN stack development.
