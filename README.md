@@ -3,7 +3,7 @@
 
 - Core Team Member at @DSCKGEC
 - Part-Time Backend Developer at Tech Table.
-- SDE Intern at Glorio Technologies Pvt Ltd
+- Product Development Intern in MERN at Glorio Technologies Pvt Ltd
 
 
 - 👨🏻‍💻 I’m currently working on: Computer Vision through UNets
