@@ -8,7 +8,7 @@
 
 - 👨🏻‍💻 I’m currently working on: Computer Vision through UNets
 - 🔐 I’m currently learning Blockchain.
-- 💬 Ask me abou:t astronomy 🔭
+- 💬 Ask me about: astronomy 🔭
 - 📫 How to reach me: soumyajitdatta123@gmail.com
 - ⚡ Fun fact: I love watching anime 🐽
 - 🎹 I can play piano too.
