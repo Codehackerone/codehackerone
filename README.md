@@ -11,7 +11,7 @@
 - 💬 Ask me about: astronomy 🔭
 - 📫 How to reach me: soumyajitdatta123@gmail.com
 - ⚡ Fun fact: I love watching anime 🐽
-- 🎹 I can play piano too.
+- 🎹 I play piano too.
 - 🇩🇪 Current language that I am learning: German.
 - ♛ Up for a chess game? Join me [here](https://chess.com/members/Codehackerone) and [here](https://lichess.org/@/SoumyajitDatta_Chess)
 
