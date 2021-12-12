@@ -2,11 +2,11 @@
 ### Hi there, I am Soumyajit 👋
 
 - Core Team Member at @DSCKGEC
-- Part-Time Backend Developer at Tech Table.
-- Product Development Intern in MERN at Glorio Technologies Pvt Ltd
+- Backend Developer at Tech Table.
+- Backend Engineer at Glorio Technologies Pvt Ltd
 
 
-- 👨🏻‍💻 I’m currently working on: Computer Vision through UNets
+- 👨🏻‍💻 I’m currently working on: Computer Vision through Vision Transformers
 - 🔐 I’m currently learning Blockchain.
 - 💬 Ask me about: astronomy 🔭
 - 📫 How to reach me: soumyajitdatta123@gmail.com
