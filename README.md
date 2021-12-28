@@ -12,7 +12,7 @@
 - 📫 How to reach me: soumyajitdatta123@gmail.com
 - ⚡ Fun fact: I love watching anime 🐽
 - 🎹 I play piano too.
-- 🇩🇪 Current language that I am learning: German.
+- �🇯🇵� Current language that I am learning: Japanese
 - ♛ Up for a chess game? Join me [here](https://chess.com/members/Codehackerone) and [here](https://lichess.org/@/SoumyajitDatta_Chess)
 
 <p align="center">
