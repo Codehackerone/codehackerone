@@ -1,5 +1,6 @@
 <img align="right" width="350" height="200" src="https://github.com/Codehackerone/github-stats/blob/master/generated/overview.svg"> 
-### Hi there, I am Soumyajit 👋
+
+# Hi there, I am Soumyajit 👋
 
 
 - 👨🏻‍💻 I’m currently working on: Computer Vision through Vision Transformers
