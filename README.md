@@ -7,9 +7,7 @@
 - 🔐 I’m currently exploring: Chain-of-Thoughts
 - 💬 Ask me about: Machine Learning and NLP
 
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=codehackerone&hide_border=true" width="100%"/>
-</p>
+
 
 ## Contribution Stats
 
