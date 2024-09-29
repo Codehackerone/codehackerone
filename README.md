@@ -3,14 +3,9 @@
 # Hi there, I am Soumyajit 👋
 
 
-- 👨🏻‍💻 I’m currently working on: Computer Vision through Vision Transformers
-- 🔐 I’m currently learning Blockchain.
-- 💬 Ask me about: astronomy 🔭
-- 📫 How to reach me: soumyajitdatta123@gmail.com
-- ⚡ Fun fact: I love watching anime 🐽
-- 🎹 Amateur Pianist
-- �🇯🇵� Current language that I am learning: Japanese
-- ♛ Up for a chess game? Join me [here](https://chess.com/members/Codehackerone) and [here](https://lichess.org/@/SoumyajitDatta_Chess)
+- 👨🏻‍💻 I’m currently pursuing: PhD at RIT
+- 🔐 I’m currently exploring: Chain-of-Thoughts
+- 💬 Ask me about: Machine Learning and NLP
 
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=codehackerone&hide_border=true" width="100%"/>
