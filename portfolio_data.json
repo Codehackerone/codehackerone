@@ -1,0 +1,136 @@
+{
+  "header": {
+    "homepage": "https://soumyajitdatta.com",
+    "title": "SD."
+  },
+  "about": {
+    "name": "Soumyajit Datta",
+    "role": "CS PhD Student",
+    "description": "I am a first-year PhD student and Graduate Research Assistant at Rochester Institute of Technology, specializing in Computational Linguistics and Computational Social Science. My research revolves around leveraging advanced Natural Language Processing (NLP) and Computer Vision techniques to extract valuable social insights. Additionally, I work with generative AI, with a strong focus on AI for social good and ensuring the safety of large language models (LLMs). Outside of research, I enjoy playing chess and the piano, always seeking new intellectual and creative challenges. Occasionally, I write blogs, compete on Kaggle, or dive into discovering fascinating facts about the universe.",
+    "resume": "https://example.com",
+    "shortbio": "PhD Student",
+    "study": "Rochester Institute of Technology",
+    "email": "sd3528[at]rit[dot]edu",
+    "where": "New York, USA",
+    "social": {
+      "linkedin": "https://linkedin.com",
+      "github": "https://github.com",
+      "google_scholar": "https://scholar.google.com",
+      "twitter": "https://twitter.com",
+      "medium": "https://medium.com",
+      "hashnode": "https://hashnode.com",
+      "kaggle": "https://kaggle.com"
+    }
+  },
+  "publications": [
+    {
+      "year": "2024",
+      "authors": "S. Datta, A. KhudaBukhsh, et al.",
+      "title": "Analyzing Political Polarization with NLP Techniques",
+      "link": "https://example.com/paper1",
+      "conference": "Web Conference 2024"
+    },
+    {
+      "year": "2024",
+      "authors": "S. Datta.",
+      "title": "Nirnyaaak",
+      "link": "https://example.com/paper2",
+      "conference": "IEEE"
+    }
+  ],
+  "blogs": [
+    {
+      "title": "Exploring NLP in Political Discourse",
+      "date": "October 1, 2024",
+      "description": "A deep dive into how NLP models can be used to analyze political speech and polarization in society.",
+      "link": "https://example.com/blog1",
+      "image": "https://res.cloudinary.com/codehackerone/image/upload/v1604546660/samples/landscapes/nature-mountains.jpg"
+    },
+    {
+      "title": "AI for Good: The Future of Disaster Response",
+      "date": "September 15, 2024",
+      "description": "An exploration of how AI can play a pivotal role in optimizing disaster response systems for better outcomes.",
+      "link": "https://example.com/blog2",
+      "image": "https://res.cloudinary.com/codehackerone/image/upload/v1604593931/YelpCamp/mbcrvigcxspr3nlonpjt.jpg"
+    },
+    {
+      "title": "Understanding GPT Models and their Limitations",
+      "date": "August 30, 2024",
+      "description": "A discussion on GPT models, their capabilities, limitations, and potential improvements in future versions.",
+      "link": "https://example.com/blog3",
+      "image": "https://res.cloudinary.com/codehackerone/image/upload/v1604593931/YelpCamp/mbcrvigcxspr3nlonpjt.jpg"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Graduate Research Assistant",
+      "organization": "Rochester Institute of Technology (RIT)",
+      "duration": "Sep 2024 - Present",
+      "description": "Working on extracting social insights using NLP and computer vision techniques.",
+      "keyPoints": [
+        "Focus on AI safety and NLP projects related to political polarization.",
+        "Specializing in LLMs and disaster response systems."
+      ]
+    },
+    {
+      "title": "Technical Co-Lead",
+      "organization": "Google Developer Students Club, KGEC",
+      "duration": "2021 - 2022",
+      "description": "Led a team of students to organize events and develop solutions using Google technologies.",
+      "keyPoints": [
+        "Worked on various AI/ML-based initiatives.",
+        "Managed a team of students in developing projects."
+      ]
+    },
+    {
+      "title": "AI & ML Lead",
+      "organization": "KGEC Robotics Society",
+      "duration": "2020 - 2021",
+      "description": "Developed machine learning models for robotics applications and led several projects.",
+      "keyPoints": [
+        "Spearheaded robotics automation using AI.",
+        "Focused on integrating machine learning techniques into robotics."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Project 1",
+      "description": "Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam",
+      "stack": ["SASS", "TypeScript", "React"],
+      "sourceCode": "https://github.com",
+      "livePreview": "https://github.com"
+    },
+    {
+      "name": "Project 2",
+      "description": "Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam",
+      "stack": ["SASS", "TypeScript", "React"],
+      "sourceCode": "https://github.com",
+      "livePreview": "https://github.com"
+    },
+    {
+      "name": "Project 3",
+      "description": "Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam",
+      "stack": ["SASS", "TypeScript", "React"],
+      "sourceCode": "https://github.com",
+      "livePreview": "https://github.com"
+    }
+  ],
+  "skills": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "TypeScript",
+    "React",
+    "Redux",
+    "SASS",
+    "Material UI",
+    "Git",
+    "CI/CD",
+    "Jest",
+    "Enzyme"
+  ],
+  "contact": {
+    "email": "johnsmith@mail.com"
+  }
+}
